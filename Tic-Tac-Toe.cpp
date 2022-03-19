@@ -2,7 +2,7 @@
 #include <cstdlib>
 #include <ctime>
 
-
+// xd
 class Table 
 {
     char tab[3][3], winner;
